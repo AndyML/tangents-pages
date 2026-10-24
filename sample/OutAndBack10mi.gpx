@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- SPEC §5.13 out-and-back: 5 mi north on -87.63000, back south on -87.62980 (16.5 m east). GPX length 16,110 m. -->
+<gpx version="1.1" creator="Tangents tests" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>Out and Back 10 mi</name>
+    <trkseg>
+      <trkpt lat="41.8800000" lon="-87.63000"><ele>180</ele></trkpt>
+      <trkpt lat="41.8872366" lon="-87.63000"><ele>180</ele></trkpt>
+      <trkpt lat="41.8944732" lon="-87.63000"><ele>180</ele></trkpt>
+      <trkpt lat="41.9017098" lon="-87.63000"><ele>180</ele></trkpt>
+      <trkpt lat="41.9089464" lon="-87.63000"><ele>180</ele></trkpt>
+      <trkpt lat="41.9161830" lon="-87.63000"><ele>180</ele></trkpt>
+      <trkpt lat="41.9234196" lon="-87.63000"><ele>180</ele></trkpt>
+      <trkpt lat="41.9306562" lon="-87.63000"><ele>180</ele></trkpt>
+      <trkpt lat="41.9378928" lon="-87.63000"><ele>180</ele></trkpt>
+      <trkpt lat="41.9451294" lon="-87.63000"><ele>180</ele></trkpt>
+      <trkpt lat="41.9523660" lon="-87.63000"><ele>180</ele></trkpt>
+      <trkpt lat="41.9523660" lon="-87.62980"><ele>180</ele></trkpt>
+      <trkpt lat="41.9451294" lon="-87.62980"><ele>180</ele></trkpt>
+      <trkpt lat="41.9378928" lon="-87.62980"><ele>180</ele></trkpt>
+      <trkpt lat="41.9306562" lon="-87.62980"><ele>180</ele></trkpt>
+      <trkpt lat="41.9234196" lon="-87.62980"><ele>180</ele></trkpt>
+      <trkpt lat="41.9161830" lon="-87.62980"><ele>180</ele></trkpt>
+      <trkpt lat="41.9089464" lon="-87.62980"><ele>180</ele></trkpt>
+      <trkpt lat="41.9017098" lon="-87.62980"><ele>180</ele></trkpt>
+      <trkpt lat="41.8944732" lon="-87.62980"><ele>180</ele></trkpt>
+      <trkpt lat="41.8872366" lon="-87.62980"><ele>180</ele></trkpt>
+      <trkpt lat="41.8800000" lon="-87.62980"><ele>180</ele></trkpt>
+    </trkseg>
+  </trk>
+</gpx>
